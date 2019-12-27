@@ -1,0 +1,16 @@
+PODS:
+  - NetWorking (0.1.0)
+
+DEPENDENCIES:
+  - NetWorking (from `Lib/NetWorking`)
+
+EXTERNAL SOURCES:
+  NetWorking:
+    :path: Lib/NetWorking
+
+SPEC CHECKSUMS:
+  NetWorking: 405e21afc0b725b366cc75e4b6c9738fd2fbc0b9
+
+PODFILE CHECKSUM: aa634dd40bfc0b76995aeb16c049b1ad361cce46
+
+COCOAPODS: 1.8.3

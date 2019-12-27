@@ -1,0 +1,6 @@
+framework module NetWorking {
+  umbrella header "NetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}
